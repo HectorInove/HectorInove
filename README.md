@@ -36,4 +36,4 @@
 
 -------
 
-<a href="https://www.linkedin.com/in/hector-vergara/?locale=en_US"><img src="assets/linkedin.png" width="40">  You can find me on LinkedIn </a>
+<a href="https://www.linkedin.com/in/hector-vergara/?locale=en_US"><img src="assets/linkedin.png" width="40">  Feel free to visit my profile on LinkedIn for more information </a>
